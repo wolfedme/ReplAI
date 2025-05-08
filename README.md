@@ -1,7 +1,15 @@
-# Tauri + SvelteKit + TypeScript
+![ReplAI Icon](/src-tauri/icons/128x128.png)
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+# ReplAI
 
-## Recommended IDE Setup
+A **Rust-powered cross-platform desktop app** to collect, organize, and parameterize AI chat prompts.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Hint
+
+Currently in setup phase with no real value. Come back later :)
+
+## Quick Start
+
+```bash
+pnpm run tauri dev  # Run desktop app
+```
